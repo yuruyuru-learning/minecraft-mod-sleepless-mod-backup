@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sleeplessmod",
+  "name": "Sleepless Mod",
+  "description": "Player has to sleep",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yuki Kuwashima"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
